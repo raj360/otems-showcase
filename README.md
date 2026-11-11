@@ -1,6 +1,6 @@
 # OTEM
 
-Public showcase for OTEM, Work-order and fleet operations platform.
+Public showcase for OTEMS, Work-order and fleet operations platform.
 
 ## Problem statement
 
