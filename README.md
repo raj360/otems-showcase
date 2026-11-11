@@ -1,6 +1,6 @@
 # OTEM
 
-Public showcase for OTEM, a work-order and fleet operations platform delivered for **Three Ways Shipping** (TEPU Intrafield) during work at SwarmByte.
+Public showcase for OTEM, Work-order and fleet operations platform.
 
 ## Problem statement
 
