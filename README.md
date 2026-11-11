@@ -1,4 +1,4 @@
-# OTEM
+# OTEMS
 
 Public showcase for OTEMS, Work-order and fleet operations platform.
 
